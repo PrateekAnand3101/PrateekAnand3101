@@ -1,5 +1,7 @@
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)]
 <h1 align="center">Hi there👋, I'm Prateek</h1>
+<p align="center">
+  <img src="https://github.com/sarthak815/sarthak815/blob/main/coding.gif"/>
+</p>
 <h3 align="center">I am a frontend developer from India who is passionate about my work. My primary focus is building websites and web applications that are both responsive and user-friendly. I am enthusiastic about creating UI designs that are elegant and functional, and I constantly strive to stay up to date with the latest frontend development trends and technologies. I invite you to check out some of my work on my GitHub profile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekanand3101&label=Profile%20views&color=0e75b6&style=flat" alt="prateekanand3101" /> </p>
